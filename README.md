@@ -1,0 +1,1 @@
+# medium-bigquery-authorized-view-kaggle-retail
