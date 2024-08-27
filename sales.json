@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Store",
+        "type": "INT64",
+        "mode": "REQUIRED",
+        "description": "Store Number"
+    },
+    {
+        "name": "Dept",
+        "type": "INT64",
+        "mode": "REQUIRED",
+        "description": "Department Number"
+    },
+    {
+        "name": "Date",
+        "type": "STRING",
+        "mode": "REQUIRED",
+        "description": "Date in DD/MM/YYYY format"
+    },
+    {
+        "name": "Weekly_Sales",
+        "type": "NUMERIC",
+        "mode": "NULLABLE",
+        "description": "Weekly Sales"
+    },
+    {
+        "name": "IsHoliday",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE",
+        "description": "Is the date a holiday"
+    }
+]

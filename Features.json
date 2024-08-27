@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Store",
+        "type": "INT64",
+        "mode": "REQUIRED",
+        "description": "Store Number"
+    },
+    {
+      "name": "Date",
+      "type": "STRING",
+      "mode": "REQUIRED",
+      "description": "Feature Date"
+    },
+    {
+        "name": "Temperatue",
+        "type": "NUMERIC",
+        "mode": "NULLABLE",
+        "description": "Temperature"
+    },
+    {
+        "name": "Fuel_Price",
+        "type": "NUMERIC",
+        "mode": "NULLABLE",
+        "description": "Fuel Price"
+    },
+    {
+        "name": "MarkDown1",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Markdown 1"
+    },
+    {
+        "name": "MarkDown2",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Markdown 2"
+    },
+    {
+        "name": "MarkDown3",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Markdown 3"
+    },
+    {
+        "name": "MarkDown4",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Markdown 4"
+    },
+    {
+        "name": "MarkDown5",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Markdown 5"
+    },
+    {
+        "name": "CPI",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "CPI"
+    },
+    {
+        "name": "Unemployment",
+        "type": "STRING",
+        "mode": "NULLABLE",
+        "description": "Unemployment"
+    },
+    {
+        "name": "IsHoliday",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE",
+        "description": "Is Holiday"
+    }
+  ]
